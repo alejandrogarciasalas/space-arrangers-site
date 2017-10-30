@@ -1,0 +1,14 @@
+body {
+    background-image: url('spacearrangers.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.container {
+	/*width: 50%;*/
+	margin: 25% 20%;
+}
